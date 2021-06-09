@@ -1,4 +1,6 @@
-# this file creates 10 folders in the same location this file exists in and has depth 4, in each depth the same ten folders are found, good for hiding personal information
+'''
+this file creates 10 folders in the same location this file exists in and has depth 4, in each depth the same ten folders are found, good for hiding personal information
+'''
 
 import os
 
